@@ -1,5 +1,3 @@
-# data-analytics
-
 # Data Analytics Project
 
 ## Overview
